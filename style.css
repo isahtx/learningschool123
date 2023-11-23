@@ -15,4 +15,8 @@ body {
     color:antiquewhite;
     text-decoration: none;
  }
+ h1 {
+    box-sizing: border-box;
+    border: solid lightgray
+ }
 
