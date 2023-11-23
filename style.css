@@ -16,9 +16,11 @@ body {
     color: rgb(160, 160, 41);
  }
  h1 {
-    box-sizing: border-box;
     border: solid lightgray 5px;
+    display: block;
     text-align: center;
+    width: 585px;
+    margin: 0 auto;
  }
 
 
