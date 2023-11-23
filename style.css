@@ -22,5 +22,9 @@ body {
     width: 585px;
     margin: 0 auto;
  }
+ button {
+   color:rgb(24, 31, 31);
+   background-color: blanchedalmond;
+ }
 
 
