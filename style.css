@@ -7,7 +7,7 @@ body {
     text-decoration: none;
     color:antiquewhite
  }
- ul a.hover {
+ ul a:hover {
     text-decoration: none;
     color: beige;
  }
