@@ -5,7 +5,7 @@ body {
 }
  a:link {
     text-decoration: none;
-    color:antiquewhite
+    color:antiquewhite;
  } 
  a:visited {
     color:antiquewhite;
@@ -32,5 +32,9 @@ body {
    font-weight: normal;
  }
  h5 {
-   font-weight: 900;
+   font-weight: 900
+ }
+ .work {
+    margin: 0%;
+    border: 0%;
  }
