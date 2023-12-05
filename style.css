@@ -21,10 +21,12 @@ body {
     text-align: center;
     width: 500px;
     margin: 0 auto;
+    border-radius: 10%;
  }
  button {
    color:#002333;
    background-color: blanchedalmond;
+   border-radius: 15%;
  }
  h2 {
    color:#002333;
@@ -32,7 +34,8 @@ body {
    font-weight: normal;
  }
  h5 {
-   font-weight: 900
+   font-weight: 900px;
+   letter-spacing: 1px;
  }
  .work {
     margin: 0%;
